@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Owuo41
-- 👀 I’m interested in ...coding and programming 
-- 🌱 I’m currently learning ...Information Technology
+- 👀 I’m interested in ...Web development, coding and programming 
+- 🌱 I’m currently learning ...Btech in Information Technology in Technical university of Mombasa
 - 💞️ I’m looking to collaborate on ...a big project in Software Development
 - 📫 How to reach me ... Instagram,@newtoneowuo41
 - 😄 Pronouns: ...She.e , subject form
